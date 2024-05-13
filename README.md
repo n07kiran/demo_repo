@@ -1,4 +1,4 @@
-Just a demo file 
+Just a demo file. 
 Learning git and github!
-THis line will be remove in future
-Adding a line below this
+Add . at the end of line.
+Adding a line below this.
